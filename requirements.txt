@@ -1,0 +1,15 @@
+langchain
+langchain-classic
+langchain-community
+langchain-openai
+python-dotenv
+pydantic
+pandas
+openpyxl
+ddgs
+rank-bm25
+
+# web UI (AgentDock frontend + server.py)
+fastapi
+uvicorn
+python-multipart
